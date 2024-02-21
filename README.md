@@ -18,7 +18,7 @@ In this project I will be creating a customized Security Information and Event M
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+
 <b>Configure the SIEM:</b> <br/>
 
 <img src="https://i.imgur.com/qpaM84X.jpg" height="80%" width="80%" alt="install curl"/>
